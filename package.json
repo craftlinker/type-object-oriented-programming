@@ -1,0 +1,9 @@
+{
+    "name": "lesson-two-practice-hands-on",
+    "version": "1.0.0",
+    "description":  "Class/ Generic /Decorator ",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc && node index.js"
+    }
+}
